@@ -1,3 +1,11 @@
+# video of creation of this script at: https://asciinema.org/a/9479
+# the goal was to write a script with nice theme,
+# while being simple enough for a beginner to understand.
+
+# video reveals that the design was refined all the time
+# while working on the program.
+
+
 has_head  = False
 has_hands = False
 has_legs  = False
