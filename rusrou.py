@@ -3,6 +3,11 @@ import random
 # in this video I translate it to python:
 # https://asciinema.org/a/9480
 
+# by watching how it was created, it can be easier
+# to understand why programming constructs if / while 
+# are used to control program flow. Thinking about difficult
+# things is also itself, quite good exercise.
+
 # structured programming theory goes:
 #   every program written in goto soup has a structured
 #   equivalent, that is easier to understand.
